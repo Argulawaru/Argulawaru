@@ -2,7 +2,8 @@
 - 👀 I came her to complete my Computer science enginerring
 - 🌱 I am Working On Project On E-navigation
 - 💞️ I really like reading about astronmy
-- 📫 How to reach me Don't Actually
+- 📫 you can view me on my linkedln https://www.linkedin.com/in/argulawaru-rithika/
+- okie Bye!
 
 <!---
 Argulawaru/Argulawaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
