@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Argulawaru
-- 👀 I came her to complete my Computer science enginerring
-- 🌱 I am Working On Project named Dudhsanchalan-An application for delivery guys
+- 👀 I am a Computer Science Graduate
+- 🌱 I am trying to learn different technologies by doing different projects
 - 💞️ I really like reading about astronmy
 - 📫 you can view me on my linkedln https://www.linkedin.com/in/argulawaru-rithika/
 - okie Bye!
